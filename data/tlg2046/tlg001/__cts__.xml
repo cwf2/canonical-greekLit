@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2046" projid="greekLit:tlg001" urn="urn:cts:greekLit:tlg2046.tlg001" xml:lang="grc">
+            
+   <ti:title xml:lang="eng">Fall of Troy</ti:title>
+                    
+   <ti:edition urn="urn:cts:greekLit:tlg2046.tlg001.perseus-grc1" workUrn="urn:cts:greekLit:tlg2046.tlg001">
+      <ti:description xml:lang="mul">Quintus Smyrnaeus. The Fall of Troy. Arthur S. Way. London: William Heinemann; New York: G.P. Putnam's Sons. 1913.</ti:description>                              
+   </ti:edition>
+        
+</ti:work>
