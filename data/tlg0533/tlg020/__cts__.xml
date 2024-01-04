@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0533"
+    urn="urn:cts:greekLit:tlg0533.tlg020" projid="greekLit:tlg001" xml:lang="grc">
+    <ti:title xml:lang="eng">Hymn to Demeter</ti:title>
+
+    <ti:edition workUrn="urn:cts:greekLit:tlg0533.tlg020"
+        urn="urn:cts:greekLit:tlg0533.tlg020.perseus-grc1" xml:lang="grc">
+        <ti:label xml:lang="eng">Hymn to Demeter</ti:label>
+        <ti:description xml:lang="mul">Callimachus. Works. A.W. Mair. London: William Heinemann; New York: G.P. Putnam's Sons. 1921.</ti:description>
+    </ti:edition>
+</ti:work>

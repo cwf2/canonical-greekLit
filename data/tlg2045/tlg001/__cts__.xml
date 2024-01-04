@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2045" projid="greekLit:tlg001" urn="urn:cts:greekLit:tlg2045.tlg001" xml:lang="grc">
+            
+   <ti:title xml:lang="eng">Fall of Troy</ti:title>
+                    
+   <ti:edition urn="urn:cts:greekLit:tlg2045.tlg001.perseus-grc1" workUrn="urn:cts:greekLit:tlg2045.tlg001">
+      <ti:description xml:lang="mul">Nonnus of Panopolis. Dionysiaca, 3 Vols. W.H.D. Rouse. Cambridge, MA., Harvard University Press; London, William Heinemann, Ltd. 1940-1942.</ti:description>                              
+   </ti:edition>
+        
+</ti:work>
